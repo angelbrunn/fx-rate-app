@@ -1,0 +1,15 @@
+{
+    "app_link_home": "Home",
+    "header_h1": "SEATTLE - PWA",
+    "home_h1": "Prueba de cotizaciones!",
+    "home_loading": "Cargando . . .",
+    "home_select_base": "Seleccione base",
+    "home_select_tax": "Seleccione tasas",
+    "home_select_value_base": "EUR",
+    "home_select_calculate": "Calcular",
+    "list_not_data": "No hay datos!",
+    "list_hd_base": "Base",
+    "list_hd_pair": "Par",
+    "list_hd_tax": "Taxas",
+    "list_hd_value": "Valor"
+}

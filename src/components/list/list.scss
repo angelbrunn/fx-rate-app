@@ -1,0 +1,24 @@
+.List {
+    display: flex;
+    &-Conteiner {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 50%;
+        .tbRate,
+        .hdRate {
+            display: flex;
+            justify-content: center;
+            .rw {
+                display: flex;
+                flex: 0.25;
+                margin: 5px 0;
+                border-bottom: 1px solid #625c5c;
+            }
+        }
+        .ntData {
+            display: flex;
+            justify-content: center;
+        }
+    }
+}

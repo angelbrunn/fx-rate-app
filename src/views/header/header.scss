@@ -1,0 +1,29 @@
+.Header {
+    display: flex;
+    &-Conteiner {
+        background-color: #0069fb;
+        display: flex;
+        box-shadow: 0 0 10px;
+        color: #000;
+        height: 90px;
+        width: 100%;
+        padding: 30px;
+        .title {
+            display: flex;
+            flex: 1;
+        }
+        .user {
+            display: flex;
+            .username {
+                margin: 7px 10px;
+                .userrole {
+                    display: flex;
+                    justify-content: flex-end;
+                }
+            }
+            .userimage {
+                border-radius: 50%;
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+.Home {
+    display: flex;
+    &-Conteiner {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        .form {
+            box-shadow: 5px 5px 18px;
+            .formSearch {
+                p {
+                    flex: 1;
+                    font-size: 16px;
+                    margin: 0 15px;
+                }
+                .sectionBase {
+                    display: flex;
+                    justify-content: center;
+                    margin: 10px 0;
+                }
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                .base {
+                    margin: 0 8px 0 0;
+                    padding: 5px;
+                }
+                .symbols {
+                    margin: 0 8px 0 0;
+                    .symbolsMultiple {
+                        width: 250px;
+                    }
+                }
+            }
+            .BtnCallRate {
+                display: flex;
+                justify-content: end;
+                margin: 0 5px 0 0;
+                .btn {
+                    background-color: #307eeb;
+                    border: none;
+                    color: white;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    margin: 4px 2px;
+                    cursor: pointer;
+                    margin-bottom: 13px;
+                }
+            }
+        }
+    }
+}

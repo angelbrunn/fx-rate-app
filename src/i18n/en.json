@@ -1,0 +1,15 @@
+{
+    "app_link_home": "Home",
+    "header_h1": "SEATTLE - PWA",
+    "home_h1": "Simple Mock rate!",
+    "home_loading": "loading . . .",
+    "home_select_base": "Select base",
+    "home_select_tax": "Select tax",
+    "home_select_value_base": "EUR",
+    "home_select_calculate": "Calculate Rates",
+    "list_not_data": "Not Data!",
+    "list_hd_base": "Base",
+    "list_hd_pair": "Pair",
+    "list_hd_tax": "Tax",
+    "list_hd_value": "Value"
+}
